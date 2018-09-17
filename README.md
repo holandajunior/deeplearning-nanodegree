@@ -6,6 +6,12 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 
 ## Table Of Contents
 
+### Projects
+
+Currently, there are the following developed projects:
+
+- First neural network
+
 ### Tutorials
 
 * [Sentiment Analysis with Numpy](https://github.com/udacity/deep-learning/tree/master/sentiment-network): [Andrew Trask](http://iamtrask.github.io/) leads you through building a sentiment analysis model, predicting if some text is positive or negative.
