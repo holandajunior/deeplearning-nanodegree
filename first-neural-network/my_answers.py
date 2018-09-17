@@ -1,5 +1,11 @@
 import numpy as np
 
+#######
+# This code was based on other projects available on github repositories:
+# https://github.com/mhowto/first-neural-network/blob/master/my_answers.py
+# https://github.com/hlfshell/udacity-deeplearningND-first-neural-network
+#######
+
 
 class NeuralNetwork(object):
     def __init__(self, input_nodes, hidden_nodes, output_nodes, learning_rate):
